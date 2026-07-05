@@ -1,0 +1,10 @@
+USE club_management_system;
+SELECT * FROM student;
+SELECT * FROM club;
+SELECT * FROM membership;
+SELECT * FROM event;
+SELECT * FROM registration;
+SELECT * FROM notification;
+SELECT * FROM volunteer;
+SELECT * FROM prize;
+SELECT * FROM winner;
